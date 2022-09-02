@@ -41,7 +41,7 @@ client.on('ready', async () => {
   console.log(`==============================`)
   console.log(`= THE FARM IS READY          =`)
   console.log(`= COMMAND : _farm            =`)
-  console.log(`= MADE BY ZEEKECEE           =`)
+  console.log(`= MADE BY ImpThreal          =`)
   console.log(`= HOST ME AT uptimerobot.com =`)
   console.log(`= ENJOY!                     =`)
   console.log(`==============================`)
